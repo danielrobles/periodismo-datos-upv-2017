@@ -24,10 +24,12 @@ Doctor Ciencias Información 2016 UCM
   
 ## Antes de empezar
 1 NAVEGADOR 
+
 2 EDITOR DE TEXTO con capacidades Markdown
 	Favorito Emacs (curva de aprendizaje alta)
 	Notepad++
 	Sublime https://www.sublimetext.com/
+	
 3 PROGRAMAS
 	Consola (por defecto en Mac y Linux)
 	Consola Windows CYGWIN
