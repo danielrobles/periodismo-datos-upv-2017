@@ -20,7 +20,7 @@ Doctor Ciencias Información 2016 UCM
 - #periodismodatos 
 - Taller de periodismo de datos 2017 - La España vacía PROYECTOS
 - Tableau
-- Revisar: http://pad.haroopress.com/user.html
+- http://pad.haroopress.com/user.html
   
 ## Antes de empezar
 1 NAVEGADOR 
