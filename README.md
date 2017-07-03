@@ -35,5 +35,3 @@ Doctor Ciencias Información 2016 UCM
 	Consola Windows CYGWIN
 
 ## Test
-
-Un [Daniel R] (http://danielrobles.es/ "danielrobles.es")
