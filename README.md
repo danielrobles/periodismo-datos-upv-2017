@@ -2,10 +2,15 @@
 
 ## Docente
 ADOLFO ANTÓN
+
 https://twitter.com/adolflow
+
 gh @flowsta
+
 infotics.es
+
 blog.infotics.es
+
 Doctor Ciencias Información 2016 UCM
 
 ## Revisar
